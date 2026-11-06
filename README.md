@@ -104,7 +104,7 @@ VIP Customers =
 sales-performance-dashboard-powerbi/
 |-- README.md
 |-- powerbi/        # .pbix report
-|-- screenshots/    # dashboard images
+|-- dashboards/    # dashboard images
 `-- docs/           # PDF export
 ```
 
